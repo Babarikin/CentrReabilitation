@@ -1,0 +1,14 @@
+D:\программы\cursach\MBcursachWCF\MBcursachWCF\bin\Debug\MBcursachWCF.dll
+D:\программы\cursach\MBcursachWCF\MBcursachWCF\bin\Debug\MBcursachWCF.pdb
+D:\программы\cursach\MBcursachWCF\MBcursachWCF\obj\Debug\MBcursachWCF.csproj.AssemblyReference.cache
+D:\программы\cursach\MBcursachWCF\MBcursachWCF\obj\Debug\MBcursachWCF.csproj.CoreCompileInputs.cache
+D:\программы\cursach\MBcursachWCF\MBcursachWCF\obj\Debug\MBcursachWCF.dll
+D:\программы\cursach\MBcursachWCF\MBcursachWCF\obj\Debug\MBcursachWCF.pdb
+D:\программы\cursach\MBcursachWCF\MBcursachWCF\bin\Debug\MBcursachWCF.dll.config
+E:\cursach\MBcursachWCF\MBcursachWCF\bin\Debug\MBcursachWCF.dll.config
+E:\cursach\MBcursachWCF\MBcursachWCF\bin\Debug\MBcursachWCF.dll
+E:\cursach\MBcursachWCF\MBcursachWCF\bin\Debug\MBcursachWCF.pdb
+E:\cursach\MBcursachWCF\MBcursachWCF\obj\Debug\MBcursachWCF.csproj.AssemblyReference.cache
+E:\cursach\MBcursachWCF\MBcursachWCF\obj\Debug\MBcursachWCF.csproj.CoreCompileInputs.cache
+E:\cursach\MBcursachWCF\MBcursachWCF\obj\Debug\MBcursachWCF.dll
+E:\cursach\MBcursachWCF\MBcursachWCF\obj\Debug\MBcursachWCF.pdb

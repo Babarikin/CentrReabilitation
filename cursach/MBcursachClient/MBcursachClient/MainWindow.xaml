@@ -1,0 +1,24 @@
+﻿<Window x:Class="MBcursachClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MBcursachClient"
+        mc:Ignorable="d"
+        Title="Центр реабилитации" Height="625" Width="1044" Loaded="Window_Loaded" Closing="Window_Closing" Icon="/иконка2_ВОКЦМР2.png">
+    <Grid Loaded="Grid_Loaded" Margin="0,0,0,-6">
+        <Grid.Background>
+            <ImageBrush ImageSource="/photo_2023-04-26_09-16-50.jpg"/>
+        </Grid.Background>
+        <Button x:Name="btnName" Content="Подключиться" HorizontalAlignment="Center" Margin="0,39,0,0" VerticalAlignment="Top" Height="41" Width="628" Click="btnName_Click"/>
+        <TextBox x:Name="tbUserName" HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="Имя сотрудника" VerticalAlignment="Top" Width="628" Height="24" TextChanged="tbUserName_TextChanged"/>
+        <ListBox x:Name="lbChat" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="562,171,90,170" Opacity="0.9"/>
+        <TextBox x:Name="lbMessage" HorizontalAlignment="Left" Margin="562,450,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="389" Height="36" KeyDown="lbMessage_KeyDown" Opacity="0.9"/>
+        <Button x:Name="btnShow" Content="Вывод" HorizontalAlignment="Left" Margin="14,91,0,0" VerticalAlignment="Top" Height="43" Width="456" Click="btnShow_Click"/>
+        <ListBox x:Name="lbtable" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="14,171,574,170" Opacity="0.9"/>
+        <Label Content="Окно чата" HorizontalAlignment="Left" Margin="562,127,0,0" VerticalAlignment="Top" Background="White"/>
+        <Label Content="Окно вывода" HorizontalAlignment="Left" Margin="14,140,0,0" VerticalAlignment="Top" Background="White"/>
+        <Button x:Name="btnSend" Content="Отправить" HorizontalAlignment="Left" Margin="956,447,0,0" VerticalAlignment="Top" Height="33" Width="63" Click="btnSend_Click"/>
+
+    </Grid>
+</Window>

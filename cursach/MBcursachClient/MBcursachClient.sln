@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBcursachClient", "MBcursachClient\MBcursachClient.csproj", "{CA2A374A-20E4-449E-8294-108949E81D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2A374A-20E4-449E-8294-108949E81D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2A374A-20E4-449E-8294-108949E81D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2A374A-20E4-449E-8294-108949E81D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2A374A-20E4-449E-8294-108949E81D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E08C990-21E0-477B-BB68-C2F00FF34822}
+	EndGlobalSection
+EndGlobal
